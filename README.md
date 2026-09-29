@@ -1,46 +1,26 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# MissEvan
 
-## Available Scripts
+本仓库是「MissEvan」的安卓版本获取入口，附使用资料索引。
 
-In the project directory, you can run:
+## 安装文件资源（夸克网盘）
 
-### `npm start`
+> **MissEvan 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/cc1711addaf5](https://pan.quark.cn/s/cc1711addaf5)
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 官方项目
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+- 上游项目：[Johnson-L/missevan](https://github.com/Johnson-L/missevan)
 
-### `npm test`
+## 更多资料
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [下载与安装教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/MissEvan/%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
+- [会员与钻石怎么算](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/MissEvan/%E4%BC%9A%E5%91%98%E4%B8%8E%E9%92%BB%E7%9F%B3%E6%80%8E%E4%B9%88%E7%AE%97.md)
+- [内容板块有哪些](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/MissEvan/%E5%86%85%E5%AE%B9%E6%9D%BF%E5%9D%97%E6%9C%89%E5%93%AA%E4%BA%9B.md)
+- [定时关闭与睡前收听](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/MissEvan/%E5%AE%9A%E6%97%B6%E5%85%B3%E9%97%AD%E4%B8%8E%E7%9D%A1%E5%89%8D%E6%94%B6%E5%90%AC.md)
+- [常见问题与解决办法](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/MissEvan/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E4%B8%8E%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95.md)
+- [缓存与离线收听方法](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/MissEvan/%E7%BC%93%E5%AD%98%E4%B8%8E%E7%A6%BB%E7%BA%BF%E6%94%B6%E5%90%AC%E6%96%B9%E6%B3%95.md)
+- [语音直播与贵族玩法](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/MissEvan/%E8%AF%AD%E9%9F%B3%E7%9B%B4%E6%92%AD%E4%B8%8E%E8%B4%B5%E6%97%8F%E7%8E%A9%E6%B3%95.md)
+- [全部软件目录](https://github.com/alipymanbu/Android/blob/master/%E5%85%A8%E9%83%A8%E8%BD%AF%E4%BB%B6%E7%9B%AE%E5%BD%95.md)
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-## update
+> 本仓库由上游项目 fork 而来，原始说明见[上游仓库](https://github.com/Johnson-L/missevan)。
